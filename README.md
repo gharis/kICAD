@@ -115,12 +115,10 @@ following values should be set in symbol properties
     • Description 
     • Case / Package 
     • Type - SMD ,BGA,LCC,OR TH 
-    • Your Instructions / Notes/ Comments** 
+    • Your Instructions / Notes/ Comments
     • Top/Bottom 
-    • points 
-    • (number of contacts the IC has in each board) 
-    • Total points 
-    • (number of contacts per BOM line has) 
+    • points (number of contacts the IC has in each board) 
+    • Total points (number of contacts per BOM line has) 
 ## BOM Samples  
     • Seed 
     • pcbway 
