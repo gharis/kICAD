@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=3oL6ZdCUZvA&ab_channel=ContextualElectronics
 KiCad STM32 Hardware Design and JLCPCB Assembly 
 https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab 
 
-# Practical Aspects on DFM
+# Practical Aspects on Design For Manufacturing
 ## PCB layout settings for PCBWay
     • clearance copper PAD to silkscreen = 0.1mm 
     • text silk height = 0.8mm 
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
     • tick Decimal format
     • tick Merge pth and npth
     • tick origin absolute
-# BOM 
+# BOM - Design For Manufacturing
 ## PCB assembly services expect BOM with the following fields  
 following values should be set in symbol properties 
 
