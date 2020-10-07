@@ -44,7 +44,9 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
 # Practical Aspects on DFM
 ## PCB layout settings for PCBWay
     • clearance copper PAD to silkscreen = 0.1mm 
-    • text silk height = 0.8mm 
+    
+    • text silk height = 0.8mm 
+    
     • text silk width = 0.8mm 
     • text silk thickness = 0.16mm 
     • text F.Fab height = 0.4mm 
