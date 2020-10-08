@@ -69,15 +69,15 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
     • https://docs.oshpark.com/design-tools/kicad/ 
 ## Manufacturing files  generation in Ki CAD 
     • Gerbers  
-    • Pcbnew->File->Gerbers 
+        • Pcbnew->File->Gerbers 
     • Drill file  
-    • Pcbnew->File->Gerbers ->Drill file 
+        • Pcbnew->File->Gerbers ->Drill file 
     • Assembly drawing (F.Fab)  
-    • Pcbnew->File->Gerbers 
+        • Pcbnew->File->Gerbers 
     • Pick and place (.pos), Centroid file   
-    • Pcbnew->File->Fabrication Outputs -> Footprint position (.pos) 
+        • Pcbnew->File->Fabrication Outputs -> Footprint position (.pos) 
     • BOM  
-    • Easchema->Bill of materials 
+        • Easchema->Bill of materials 
 ## Manufacturing file list for PCB house 
     • Assembly drawing.pdf 
     • F_fab.gbr 
