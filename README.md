@@ -119,8 +119,8 @@ following values should be set in symbol properties
     • points (number of contacts the IC has in each board) 
     • Total points (number of contacts per BOM line has) 
 ## BOM Samples
-    • Seed 
-    • pcbway 
+    • Seed http://support.seeedstudio.com/knowledgebase/articles/1886734-how-do-i-prepare-the-bill-of-materials-bom-file
+    • pcbway https://www.pcbway.com/blog/PCB_Assembly/How_to_Build_a_BOM__Bill_Of_Materials_.html
 # Time estimations for PCB manufacturer 
     • Takes 2- 3 days to the finalized quotation from any PCB house for assembly service   
     • PCB board manufacturing 2 - 3 days   
