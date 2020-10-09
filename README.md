@@ -126,7 +126,7 @@ following values should be set in symbol properties
     • PCB board manufacturing 2 - 3 days   
     • PCB assemble 4 weeks or 12 - 30 days  
     • Shipping 5 days or 24 hours  
-# PCB house cost comparison for sample pcb
+# PCB house cost comparison for sample 10x PCBs
     • SeeedStudio $485, production 24 days
     • PCBway  $330, production 35 days
     • 7PCB/BITTELE $770, production 14 days
