@@ -106,8 +106,7 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
     • tick origin absolute
 # BOM - Design For Manufacturing
 ## PCB assembly services expect BOM with the following fields  
-following values should be set in symbol properties 
-
+following values should be set in symbol properties
     • Designator 
     • Qty 
     • Manufacturer 
@@ -119,6 +118,20 @@ following values should be set in symbol properties
     • Top/Bottom 
     • points (number of contacts the IC has in each board) 
     • Total points (number of contacts per BOM line has) 
-## BOM Samples  
+## BOM Samples
     • Seed 
     • pcbway 
+# Time estimations for PCB manufacturer 
+    • Takes 2- 3 days to the finalized quotation from any PCB house for assembly service   
+    • PCB board manufacturing 2 - 3 days   
+    • PCB assemble 4 weeks or 12 - 30 days  
+    • Shipping 5 days or 24 hours  
+# PCB house cost comparison for sample pcb
+    • SeeedStudio $485, production 24 days
+    • PCBway  $330, production 35 days
+    • 7PCB/BITTELE $770, production 14 days
+    • AllPCB $480, production 25 days
+    • PCBbee $530, production 12 days
+    • STHL $580, production 28 days
+    • PCBgogo $370, production 20 days
+    • NextPCB $415, production 30 days
