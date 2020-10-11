@@ -120,14 +120,19 @@ Following values should be set in symbol properties
     • points (number of contacts the IC has in each board) 
     • Total points (number of contacts per BOM line has) 
 ## BOM Samples
-    • Seed http://support.seeedstudio.com/knowledgebase/articles/1886734-how-do-i-prepare-the-bill-of-materials-bom-file
-    • pcbway https://www.pcbway.com/blog/PCB_Assembly/How_to_Build_a_BOM__Bill_Of_Materials_.html
+    • Seed 
+http://support.seeedstudio.com/knowledgebase/articles/1886734-how-do-i-prepare-the-bill-of-materials-bom-file
+
+    • pcbway 
+https://www.pcbway.com/blog/PCB_Assembly/How_to_Build_a_BOM__Bill_Of_Materials_.html
 # Time estimations for PCB manufacturer 
     • Takes 2- 3 days to the finalized quotation from any PCB house for assembly service   
     • PCB board manufacturing 2 - 3 days   
     • PCB assemble 4 weeks or 12 - 30 days  
     • Shipping 5 days or 24 hours  
 # PCB house cost comparison for sample 10x PCBs
+With components assembly/ components by pcb house / 2 layer / single side components
+
     • SeeedStudio $485, production 24 days
     • PCBway  $330, production 35 days
     • 7PCB/BITTELE $770, production 14 days
