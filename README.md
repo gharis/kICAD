@@ -106,7 +106,8 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
     • tick origin absolute
 # BOM - Design For Manufacturing
 ## PCB assembly services expect BOM with the following fields  
-following values should be set in symbol properties
+Following values should be set in symbol properties
+
     • Designator 
     • Qty 
     • Manufacturer 
