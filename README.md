@@ -63,6 +63,29 @@ https://www.youtube.com/watch?v=t5phi3nT8OU&ab_channel=Phil%E2%80%99sLab
     • component boundary - f.Fab - assembly layer 
     • physical ic keep out - Crtyrd 
     • component direction (LED/diodes)- f.Fab - assembly layer 
+    
+### Foot print design tips 
+
+    • Libs from snap eda or ultrabroad 
+    • Edit foot prints 
+    • Fab layer – ref designators %R 
+         • Highet 0.5mm 
+         • Width 0.5mm 
+         • Thickness 0.15mm 
+    • Fab layer outline of component 
+    • Delete existing fab layer – hard to see in printed format 
+    • Draw in fab layer on top of cortyad 
+    • Keep fab layer designator inside the fab layer outline  
+    • Fab layer important 
+         • Led cathode 
+         • Diode cathode 
+         • 1st pin of IC
+         • Pin header pin no 1 
+         • Multi pin connecter pin no 1 
+         • Electrolyte capacitor cathode 
+         • Etc.. 
+    • Silk screen designator is not must for mass production or for pcb house   
+    
 ## PCB outer cut/ margin  
     • Edge.Cuts 
 # Manufacturing file generation in Ki CAD 
